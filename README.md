@@ -1,3 +1,29 @@
+## realsense2_camera (jazzy) - 4.55.1-1
+
+The packages in the `realsense2_camera` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy realsense2_camera --override-release-repository-push-url git@github.com:revyos-ros/realsense-ros-release.git` on `Thu, 19 Dec 2024 09:07:04 -0000`
+
+These packages were released:
+- `realsense2_camera`
+- `realsense2_camera_msgs`
+- `realsense2_description`
+
+Version of package(s) in repository `realsense2_camera`:
+
+- upstream repository: https://github.com/IntelRealSense/realsense-ros.git
+- release repository: https://github.com/revyos-ros/realsense-ros-release.git
+- rosdistro version: `4.55.1-3`
+- old version: `null`
+- new version: `4.55.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## realsense2_camera (iron) - 4.55.1-1
 
 The packages in the `realsense2_camera` repository were released into the `iron` distro by running `/usr/bin/bloom-release --ros-distro iron --track iron realsense2_camera --edit -d` on `Tue, 28 May 2024 21:12:00 -0000`
